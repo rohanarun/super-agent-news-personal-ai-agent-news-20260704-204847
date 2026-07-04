@@ -1,0 +1,31 @@
+{
+  "citations": [
+    "[engadget.com](https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[appleinsider.com](https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)"
+  ],
+  "design_plan": "rng=42; hero_math:max_width=1120px->2.4 lines; aida=pass; density:grid-auto-flow:dense; labels=all competitors present; contrast=black/white CTAs validated",
+  "generated_at": "2026-07-04T20:48:54.120478+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A live editorial brief for buyers and builders tracking personal AI agents \u2014 from Siri\u2019s long\u2011awaited AI upgrade to Gemini\u2019s push into agentic desktop assistants, Grok\u2019s expansion, and the broader shift toward computer\u2011using agents. We close with why Super\u2019s computer\u2011use cache changes the economics of repeated workflows."
+}
